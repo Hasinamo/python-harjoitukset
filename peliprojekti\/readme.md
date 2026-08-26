@@ -1,2 +1,0 @@
-Nolla astetta 
-Hasina
