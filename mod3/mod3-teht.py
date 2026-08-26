@@ -54,3 +54,6 @@ luku = random randint (0,9)
 print (f'{luku}, {luku2}, {luku3}')
 
 
+
+
+
